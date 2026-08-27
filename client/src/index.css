@@ -54,7 +54,7 @@ button {
 .container {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 0 28px;
+  padding: 0 80px;
 }
 
 /* HEADER */
