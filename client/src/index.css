@@ -54,7 +54,7 @@ button {
 .container {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 0 80px;
+  padding: 0 100px;
 }
 
 /* HEADER */
@@ -1659,7 +1659,7 @@ footer a {
   align-items: baseline;
 
   color: #bfaa99;
-  font: 800 10px var(--display);
+  font: 800 8px var(--display);
   letter-spacing: 0.06em;
 
   padding: 2px 0;
